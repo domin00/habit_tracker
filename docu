@@ -1,0 +1,8 @@
+# choose activity
+# input:
+#   new activity
+#   time spent
+#   potential extra metrics
+# output:
+#   excel file
+#       updated excel file
